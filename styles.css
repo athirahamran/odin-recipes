@@ -1,0 +1,22 @@
+body {
+  background: #eee;
+  font-family: sans-serif;
+}
+
+.mainTitle {
+  /* font-size: 15px; */
+}
+
+.card {
+  background: #da94a5;
+  padding: 10px;
+  display: inline-block;
+}
+
+.recipeButton {
+  border: 1px;
+  border-color: bisque;
+  padding: 10px;
+  border-radius: 10px;
+  margin: 10px 0px;
+}
