@@ -5,10 +5,11 @@ body {
 
 .mainTitle {
   /* font-size: 15px; */
+  background: ;
 }
 
 .card {
-  background: #da94a5;
+  /* background: #da94a5; */
   padding: 10px;
   display: inline-block;
 }
@@ -19,4 +20,20 @@ body {
   padding: 10px;
   border-radius: 10px;
   margin: 10px 0px;
+  background-color: #e7bcce;
+}
+
+.description {
+  padding: 10px;
+  background-color: antiquewhite;
+}
+
+.ingredients {
+  padding: 10px;
+  background-color: #94b3b8;
+}
+
+.steps {
+  padding: 10px;
+  background-color: #bce7ce;
 }
